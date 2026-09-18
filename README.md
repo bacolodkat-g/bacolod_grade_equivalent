@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 int main (){
-   
     // declare variabless
     float fahrenheit;
     float celsius;
